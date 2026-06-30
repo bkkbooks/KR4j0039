@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4j0039/WYG/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 龍川詞補遺䟦余正喜同甫不作妖語媚語偶閲中興詞選得水龍吟以後七闋亦未能超然但無一調合本集者或云贋作葢花菴與同甫俱南渡後人何至誤謬若此或花菴專選綺艷一種而同甫子沈所編本集特表阿翁磊落骨幹故若出二手况本集云詞選則知同甫之詞不止於三十闋即補此花菴所選亦安得云全豹耶姑梓之以俟博雅君子湖南毛晉又識
+  hash: sha256:4f2e47a7a73ad47c3515b6029c4352257fe6564e1fe5ea49230250d3a26b2359
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4j0039_WYG_004-1a}
+metadata:
+  title: 龍川詞
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:48:10.769217'
+  juan_title: 補遺跋
+  source:
+    repository: kanripo
+    path: KR4j0039/KR4j0039_004.txt
+hash: sha256:f02ab6ed2c40e58d80c5ff45476e626d5cd5145cfe7777c2c34717ff711f192f

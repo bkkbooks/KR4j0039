@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4j0039/krp/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 龍川詞跋同甫一名同永康人光宗策進士羣臣奏其卷第三御筆擢第一既知為同甫大喜又有天留遺朕之詔其恩遇如此據葉水心序其集云四十卷今行本止三十卷想尚多佚遺其最著者莫如上皇帝四書及酌古論自贊云人中之龍文中之虎真無忝矣第本集載詞選三十闋無甚詮次如寄辛幼安賀新郎三首錯見前後豫家藏龍川詞一卷又每調類分未知孰是讀至卷終不作一妖語媚語殆所稱不受人憐者歟湖南毛晉識
+  hash: sha256:2d3fd4a7514bd63fa241c844c4890e45e9041e58f62907dba737e139add608f0
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4j0039_WYG_002-1a}
+metadata:
+  title: 龍川詞
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:48:10.769217'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR4j0039/KR4j0039_002.txt
+hash: sha256:444d464f9a0780e4b61d58137740d3342c8f73e3ffd44e78802a56f856fce5bd

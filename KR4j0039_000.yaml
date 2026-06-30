@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4j0039/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 龍川詞
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:48:10.769217'
+  source:
+    repository: kanripo
+    path: KR4j0039/KR4j0039_000.txt
+hash: sha256:5f8c241c8177db2a61e90bd6d7bf58be96bbefc642a4a9661b08c183ebb048e3

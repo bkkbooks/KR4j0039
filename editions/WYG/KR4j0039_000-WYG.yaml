@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4j0039/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 龍川詞
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:48:10.769217'
+  source:
+    repository: kanripo
+    path: KR4j0039/KR4j0039_000.txt
+hash: sha256:160e840e12a71a6510df5d34029d743dbc37f7bc7edf567c2d222955a096eedd
